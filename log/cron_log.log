@@ -326,3 +326,80 @@ NameError: uninitialized constant InstagramScraper::TWILIO_ID
 /Users/victoriafriedman/.rvm/gems/ruby-2.1.1/bin/ruby_executable_hooks:15:in `eval'
 /Users/victoriafriedman/.rvm/gems/ruby-2.1.1/bin/ruby_executable_hooks:15:in `<main>'
 (See full trace by running task with --trace)
+rake aborted!
+NameError: uninitialized constant InstagramScraper::TWILIO_ID
+/Users/victoriafriedman/Desktop/vic_apps/instagram/lib/instagram_scraper.rb:5:in `block in <class:InstagramScraper>'
+/Users/victoriafriedman/.rvm/gems/ruby-2.1.1/gems/instagram-1.0.0/lib/instagram/configuration.rb:81:in `configure'
+/Users/victoriafriedman/Desktop/vic_apps/instagram/lib/instagram_scraper.rb:4:in `<class:InstagramScraper>'
+/Users/victoriafriedman/Desktop/vic_apps/instagram/lib/instagram_scraper.rb:2:in `<top (required)>'
+/Users/victoriafriedman/Desktop/vic_apps/instagram/Rakefile:1:in `require'
+/Users/victoriafriedman/Desktop/vic_apps/instagram/Rakefile:1:in `<top (required)>'
+/Users/victoriafriedman/.rvm/gems/ruby-2.1.1/bin/ruby_executable_hooks:15:in `eval'
+/Users/victoriafriedman/.rvm/gems/ruby-2.1.1/bin/ruby_executable_hooks:15:in `<main>'
+(See full trace by running task with --trace)
+rake aborted!
+NameError: uninitialized constant InstagramScraper::TWILIO_ID
+/Users/victoriafriedman/Desktop/vic_apps/instagram/lib/instagram_scraper.rb:5:in `block in <class:InstagramScraper>'
+/Users/victoriafriedman/.rvm/gems/ruby-2.1.1/gems/instagram-1.0.0/lib/instagram/configuration.rb:81:in `configure'
+/Users/victoriafriedman/Desktop/vic_apps/instagram/lib/instagram_scraper.rb:4:in `<class:InstagramScraper>'
+/Users/victoriafriedman/Desktop/vic_apps/instagram/lib/instagram_scraper.rb:2:in `<top (required)>'
+/Users/victoriafriedman/Desktop/vic_apps/instagram/Rakefile:1:in `require'
+/Users/victoriafriedman/Desktop/vic_apps/instagram/Rakefile:1:in `<top (required)>'
+/Users/victoriafriedman/.rvm/gems/ruby-2.1.1/bin/ruby_executable_hooks:15:in `eval'
+/Users/victoriafriedman/.rvm/gems/ruby-2.1.1/bin/ruby_executable_hooks:15:in `<main>'
+(See full trace by running task with --trace)
+rake aborted!
+NameError: uninitialized constant InstagramScraper::TWILIO_ID
+/Users/victoriafriedman/Desktop/vic_apps/instagram/lib/instagram_scraper.rb:5:in `block in <class:InstagramScraper>'
+/Users/victoriafriedman/.rvm/gems/ruby-2.1.1/gems/instagram-1.0.0/lib/instagram/configuration.rb:81:in `configure'
+/Users/victoriafriedman/Desktop/vic_apps/instagram/lib/instagram_scraper.rb:4:in `<class:InstagramScraper>'
+/Users/victoriafriedman/Desktop/vic_apps/instagram/lib/instagram_scraper.rb:2:in `<top (required)>'
+/Users/victoriafriedman/Desktop/vic_apps/instagram/Rakefile:1:in `require'
+/Users/victoriafriedman/Desktop/vic_apps/instagram/Rakefile:1:in `<top (required)>'
+/Users/victoriafriedman/.rvm/gems/ruby-2.1.1/bin/ruby_executable_hooks:15:in `eval'
+/Users/victoriafriedman/.rvm/gems/ruby-2.1.1/bin/ruby_executable_hooks:15:in `<main>'
+(See full trace by running task with --trace)
+rake aborted!
+NameError: uninitialized constant InstagramScraper::TWILIO_ID
+/Users/victoriafriedman/Desktop/vic_apps/instagram/lib/instagram_scraper.rb:5:in `block in <class:InstagramScraper>'
+/Users/victoriafriedman/.rvm/gems/ruby-2.1.1/gems/instagram-1.0.0/lib/instagram/configuration.rb:81:in `configure'
+/Users/victoriafriedman/Desktop/vic_apps/instagram/lib/instagram_scraper.rb:4:in `<class:InstagramScraper>'
+/Users/victoriafriedman/Desktop/vic_apps/instagram/lib/instagram_scraper.rb:2:in `<top (required)>'
+/Users/victoriafriedman/Desktop/vic_apps/instagram/Rakefile:1:in `require'
+/Users/victoriafriedman/Desktop/vic_apps/instagram/Rakefile:1:in `<top (required)>'
+/Users/victoriafriedman/.rvm/gems/ruby-2.1.1/bin/ruby_executable_hooks:15:in `eval'
+/Users/victoriafriedman/.rvm/gems/ruby-2.1.1/bin/ruby_executable_hooks:15:in `<main>'
+(See full trace by running task with --trace)
+rake aborted!
+NameError: uninitialized constant InstagramScraper::TWILIO_ID
+/Users/victoriafriedman/Desktop/vic_apps/instagram/lib/instagram_scraper.rb:5:in `block in <class:InstagramScraper>'
+/Users/victoriafriedman/.rvm/gems/ruby-2.1.1/gems/instagram-1.0.0/lib/instagram/configuration.rb:81:in `configure'
+/Users/victoriafriedman/Desktop/vic_apps/instagram/lib/instagram_scraper.rb:4:in `<class:InstagramScraper>'
+/Users/victoriafriedman/Desktop/vic_apps/instagram/lib/instagram_scraper.rb:2:in `<top (required)>'
+/Users/victoriafriedman/Desktop/vic_apps/instagram/Rakefile:1:in `require'
+/Users/victoriafriedman/Desktop/vic_apps/instagram/Rakefile:1:in `<top (required)>'
+/Users/victoriafriedman/.rvm/gems/ruby-2.1.1/bin/ruby_executable_hooks:15:in `eval'
+/Users/victoriafriedman/.rvm/gems/ruby-2.1.1/bin/ruby_executable_hooks:15:in `<main>'
+(See full trace by running task with --trace)
+rake aborted!
+NameError: uninitialized constant InstagramScraper::TWILIO_ID
+/Users/victoriafriedman/Desktop/vic_apps/instagram/lib/instagram_scraper.rb:5:in `block in <class:InstagramScraper>'
+/Users/victoriafriedman/.rvm/gems/ruby-2.1.1/gems/instagram-1.0.0/lib/instagram/configuration.rb:81:in `configure'
+/Users/victoriafriedman/Desktop/vic_apps/instagram/lib/instagram_scraper.rb:4:in `<class:InstagramScraper>'
+/Users/victoriafriedman/Desktop/vic_apps/instagram/lib/instagram_scraper.rb:2:in `<top (required)>'
+/Users/victoriafriedman/Desktop/vic_apps/instagram/Rakefile:1:in `require'
+/Users/victoriafriedman/Desktop/vic_apps/instagram/Rakefile:1:in `<top (required)>'
+/Users/victoriafriedman/.rvm/gems/ruby-2.1.1/bin/ruby_executable_hooks:15:in `eval'
+/Users/victoriafriedman/.rvm/gems/ruby-2.1.1/bin/ruby_executable_hooks:15:in `<main>'
+(See full trace by running task with --trace)
+rake aborted!
+NameError: uninitialized constant InstagramScraper::TWILIO_ID
+/Users/victoriafriedman/Desktop/vic_apps/instagram/lib/instagram_scraper.rb:5:in `block in <class:InstagramScraper>'
+/Users/victoriafriedman/.rvm/gems/ruby-2.1.1/gems/instagram-1.0.0/lib/instagram/configuration.rb:81:in `configure'
+/Users/victoriafriedman/Desktop/vic_apps/instagram/lib/instagram_scraper.rb:4:in `<class:InstagramScraper>'
+/Users/victoriafriedman/Desktop/vic_apps/instagram/lib/instagram_scraper.rb:2:in `<top (required)>'
+/Users/victoriafriedman/Desktop/vic_apps/instagram/Rakefile:1:in `require'
+/Users/victoriafriedman/Desktop/vic_apps/instagram/Rakefile:1:in `<top (required)>'
+/Users/victoriafriedman/.rvm/gems/ruby-2.1.1/bin/ruby_executable_hooks:15:in `eval'
+/Users/victoriafriedman/.rvm/gems/ruby-2.1.1/bin/ruby_executable_hooks:15:in `<main>'
+(See full trace by running task with --trace)

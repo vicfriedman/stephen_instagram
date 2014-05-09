@@ -2,7 +2,7 @@ require'./lib/instagram_scraper.rb'
 require './lib/twilio_texter.rb'
 
   task :check_most_recent_photo do 
-    @instagram_scraper = InstagramScraper.new(ACCESS_TOKEN)
+    @instagram_scraper = InstagramScraper.new(ENV['ACCESS_TOKEN'])
     user_id = @instagram_scraper.get_user_id
     all_pics = @instagram_scraper.get_pics(user_id.id)
     most_recent_created_time = all_pics.first.created_time.to_i
