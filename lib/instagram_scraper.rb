@@ -2,8 +2,8 @@ require 'instagram'
 class InstagramScraper
 
   Instagram.configure do |config|
-    config.client_id = ENV['TWILIO_ID']
-    config.client_secret = ENV['TWILIO_SECRET']
+    config.client_id = ENV['INSTAGRAM_ID']
+    config.client_secret = ENV['INSTAGRAM_SECRET']
   end
 
 
@@ -13,8 +13,8 @@ class InstagramScraper
 
   def get_user_id
     client = Instagram.client(:access_token => @access_token)
-    users = client.user_search("joemburgess")
-    user = users.detect {|user| user.username == "joemburgess" }
+    users = client.user_search("steventhev")
+    user = users.detect {|user| user.username == "steventhev" }
     user
   end
 
