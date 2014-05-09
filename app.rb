@@ -4,7 +4,7 @@ require './lib/instagram_scraper.rb'
 
 enable :sessions
 
-CALLBACK_URL = "http://localhost:9393/oauth/callback"
+CALLBACK_URL = "http://gentle-mountain-5200.herokuapp.com//oauth/callback"
 
 get "/" do
   erb :index
