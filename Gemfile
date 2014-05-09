@@ -4,8 +4,6 @@ gem "sinatra"
 
 gem "instagram"
 
-gem "debugger"
-
 gem "shotgun"
 
 gem 'whenever', :require => false
