@@ -2,8 +2,8 @@ require 'instagram'
 class InstagramScraper
 
   Instagram.configure do |config|
-    config.client_id = "77f4e65a97fb46ecba2b6f6eee3e1db0"
-    config.client_secret = "941eb5ab82ce4e4c9abc019cd6ebd0d2"
+    config.client_id = TWILIO_ID
+    config.client_secret = TWILIO_SECRET
   end
 
 

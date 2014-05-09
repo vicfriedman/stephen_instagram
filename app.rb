@@ -36,3 +36,5 @@ get "/user_search" do
   @user = @instagram_scraper.get_user_id
   erb :user_search
 end
+
+
