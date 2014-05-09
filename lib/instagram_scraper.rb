@@ -13,8 +13,8 @@ class InstagramScraper
 
   def get_user_id
     client = Instagram.client(:access_token => @access_token)
-    users = client.user_search("steventhev")
-    user = users.detect {|user| user.username == "steventhev" }
+    users = client.user_search("joemburgess")
+    user = users.detect {|user| user.username == "joemburgess" }
     user
   end
 
