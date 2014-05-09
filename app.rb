@@ -20,9 +20,9 @@ get "/oauth/callback" do
   redirect "/nav"
 end
 
-# get "/nav" do
-#   erb :nav
-# end
+get "/nav" do
+  erb :nav
+end
 
 get "/stephen_instagram" do
   @username = params[:username]
